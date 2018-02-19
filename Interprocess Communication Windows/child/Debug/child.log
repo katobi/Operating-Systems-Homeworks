@@ -1,0 +1,3 @@
+﻿  child.c
+c:\users\cagatay\source\repos\interprocess communication windows\child\child.c(96): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'char *'
+  child.vcxproj -> C:\Users\Cagatay\source\repos\Interprocess Communication Windows\Debug\child.exe
