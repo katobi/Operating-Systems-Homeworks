@@ -1,0 +1,8 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (210201032_HW3.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Parent.c
+c:\users\cagatay\source\repos\210201032_hw3\210201032_hw3\parent.c(108): warning C4090: 'function': different 'const' qualifiers
+c:\users\cagatay\source\repos\210201032_hw3\210201032_hw3\parent.c(108): warning C4028: formal parameter 1 different from declaration
+c:\users\cagatay\source\repos\210201032_hw3\210201032_hw3\parent.c(108): warning C4028: formal parameter 2 different from declaration
+c:\users\cagatay\source\repos\210201032_hw3\210201032_hw3\parent.c(121): warning C4047: '=': 'long' differs in levels of indirection from 'long *'
+c:\users\cagatay\source\repos\210201032_hw3\210201032_hw3\parent.c(123): warning C4244: '=': conversion from 'double' to 'long', possible loss of data
+  210201032_HW3.vcxproj -> C:\Users\Cagatay\source\repos\210201032_HW3\Debug\Parent.exe

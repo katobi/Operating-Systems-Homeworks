@@ -1,0 +1,6 @@
+﻿  child.c
+c:\users\cagatay\source\repos\210201032_hw3\child\child.c(20): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\cagatay\source\repos\210201032_hw3\child\child.c(38): warning C4047: '=': 'long *' differs in levels of indirection from 'int'
+c:\users\cagatay\source\repos\210201032_hw3\child\child.c(39): warning C4047: 'function': 'DWORD' differs in levels of indirection from 'long *'
+c:\users\cagatay\source\repos\210201032_hw3\child\child.c(39): warning C4024: 'Sleep': different types for formal and actual parameter 1
+  child.vcxproj -> C:\Users\Cagatay\source\repos\210201032_HW3\Debug\child.exe
